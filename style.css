@@ -130,7 +130,7 @@ body {
 .container .col2 {
   flex: 30%;
   height: 100vh;
-  background: url(./images/pexels-rocsana-nicoleta-gurza-3945266.jpg);
+  background: url("./images/pexels-rocsana-nicoleta-gurza-3945266.jpg");
   background-size: cover;
   border-left-style: solid;
   border-left-color: white;
